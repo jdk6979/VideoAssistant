@@ -26,7 +26,7 @@
 
 ## 使用方法
 
-1. 安装安装一个用户脚本管理器，例如 [油猴](<https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon>) 插件
+1. 安装一个用户脚本管理器，例如 [油猴](<https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon>) 插件
 
 2. 复制 VideoAssistant.js 中的内容到油猴新建脚本或 [点击自动安装](https://greasyfork.org/scripts/381103-%E8%A7%86%E9%A2%91%E5%8A%A9%E6%89%8B/code/%E8%A7%86%E9%A2%91%E5%8A%A9%E6%89%8B.user.js)
 

@@ -1,3 +1,5 @@
+[UserScripts](https://github.com/Aoerz/UserScripts)
+
 # VideoAssistant
 
 参考 [YouTube 键盘快捷键](<https://support.google.com/youtube/answer/7631406?hl=zh-Hans>) 实现了常用的几个快捷键
